@@ -1,0 +1,5 @@
+{
+    "staticWebApps.appSubpath": "shorturl",
+    "staticWebApps.apiSubpath": "",
+    "staticWebApps.appArtifactSubpath": "build"
+}
